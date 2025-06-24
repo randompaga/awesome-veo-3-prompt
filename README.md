@@ -22,7 +22,7 @@ BASE PROMPT STRUCTURE:
 
 So I analysed a couple of hundred Veo 3 prompts and their outputs and here's what I found
 >  You have to think like a director🎬 not just a describer🗣️, Using terms like the "dolly zoom" wide shot and setting the tone with things like "90s VHS footage" or "documentary style"
-> Be hyper-specific🤏 with characters and scenes. Instead of "a man", describe his clothes, his expression, and the "moody lighting" of the room he's in. The more detail the better
+> Be hyper-specific with characters and scenes. Instead of "a man", describe his clothes, his expression, and the "moody lighting" of the room he's in. The more detail the better
 > Instruct the sound🔊 You can literally write dialogue in the prompt like a script (Guy: "whoa" *excited with tears in their eyes*) and tell it what kind of music to play
 >  Structure your prompts like a mini-story, use words like "first...", "then...", "followed by..." or even just use numbers
 
