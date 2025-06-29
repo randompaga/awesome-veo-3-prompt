@@ -1,0 +1,5 @@
+graph LR
+A[城市清单] --> B(Excel宏)
+B --> C[自动生成Suno.ai指令]
+C --> D[爬虫下载Pexels视频]
+D --> E[FFmpeg自动合成]
